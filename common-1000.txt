@@ -147,6 +147,7 @@ Great.
 Happy Birthday.
 Have a good trip.
 Hello.
+Hi.
 Nice to meet you
 Please call me.
 About 300 kilometers.
@@ -688,6 +689,7 @@ Did you send me flowers?
 Do you sell batteries?
 I don't care.
 I give up.
+Never give up.
 I got in an accident.
 I have a cold.
 I have one in my car.
@@ -923,6 +925,7 @@ Please tell her John called.
 Please tell me.
 Please wait for me.
 She's going with me tomorrow.
+It seems she likes it.
 Some books.
 Someone does that for me.
 Someone is coming.
